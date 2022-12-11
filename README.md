@@ -4,9 +4,10 @@ Hey, I am Jack, a fanatical open sourceror. Working at Beowulf. 👋
 
 Dreaming up ideas and making them come true is where my passion lies. You can find my [full projects list here](https://moored-word-5c0.notion.site/To-Customer-Product-ToC-Product-6efe08d4f7e74393afeba968822a85ee). I'm also a big fan of Vuejs, Nuxtjs, Electronjs, Nodejs, Rust and webRTC Livesteaming is my focus now.
 
-Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Reels](https://www.facebook.com/reel/679908756942208).
+Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Reels](https://www.facebook.com/reel/679908756942208). If you happen to be in the same city I live (currently in Vietnam), maybe we can hang out and take some photos or code together.
 
-Find me on [Linkedin](https://www.linkedin.com/in/jack-huynh-18133b132)
+Find me on [Github](https://github.com/jackhuynh95), [Linkedin](https://www.linkedin.com/in/jack-huynh-18133b132)\
+Mail me at .
 
 <!--
 **jackhuynh95/jackhuynh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
