@@ -7,7 +7,7 @@ Dreaming up ideas and making them come true is where my passion lies. You can fi
 Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Reels](https://www.facebook.com/reel/679908756942208). If you happen to be in the same city I live (currently in Vietnam), maybe we can hang out and take some photos or code together.
 
 Find me on [Github](https://github.com/jackhuynh95), [Linkedin](https://www.linkedin.com/in/jack-huynh-18133b132)\
-Mail me at .
+Mail me at <kietdien88@gmail.com>.
 
 <!--
 **jackhuynh95/jackhuynh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
