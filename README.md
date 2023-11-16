@@ -1,13 +1,12 @@
 ### Jack Huynh
 
-Hey, I am Jack, a fanatical open sourceror. Working at Beowulf. 👋
+Hey, I'm Jack—an open-source enthusiast currently crafting code from 🇻🇳👋 My passion? Bringing ideas to life. Check out my project lineup here [full projects list here](https://moored-word-5c0.notion.site/To-Customer-Product-ToC-Product-6efe08d4f7e74393afeba968822a85ee)
 
-Dreaming up ideas and making them come true is where my passion lies. You can find my [full projects list here](https://moored-word-5c0.notion.site/To-Customer-Product-ToC-Product-6efe08d4f7e74393afeba968822a85ee). I'm also a big fan of Vuejs, Nuxtjs, Electronjs, Nodejs, Rust and webRTC Livesteaming is my focus now.
+I'm all about Vue.js, Nuxt.js, Electron.js, Node.js, Rust, and diving into webRTC Livesteaming. 🚀
 
-Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Reels](https://www.facebook.com/reel/679908756942208). If you happen to be in the same city I live (currently in Vietnam), maybe we can hang out and take some photos or code together.
+When not coding, I'm capturing moments through photography and exploring. Peep my adventures on Reels [link here](https://www.facebook.com/reel/679908756942208). If you're around Vietnam, let's grab a coffee and snap some pics or code together.
 
-Find me on [Github](https://github.com/jackhuynh95), [Linkedin](https://www.linkedin.com/in/jack-huynh-18133b132)\
-Mail me at <kietdien88@gmail.com>.
+Find me on [Github](https://github.com/jackhuynh95), [connect on Linkedin](https://www.linkedin.com/in/jack-huynh-18133b132), or drop a note at kietdien88@gmail.com. Excited to connect! 🌟
 
 <!--
 **jackhuynh95/jackhuynh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
