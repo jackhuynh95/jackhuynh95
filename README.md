@@ -6,7 +6,7 @@ I'm all about Vue.js, Nuxt.js, Electron.js, Node.js, Rust, and diving into webRT
 
 When not coding, I'm capturing moments through photography and exploring. Peep my adventures on Reels [link here](https://www.facebook.com/reel/679908756942208). If you're around Vietnam, let's grab a coffee and snap some pics or code together.
 
-Find me on [Github](https://github.com/jackhuynh95), [connect on Linkedin](https://www.linkedin.com/in/jack-huynh-18133b132), or drop a note at jackhuynh95xyz@gmail.com. Excited to connect! 🌟
+Find me on [Github](https://github.com/jackhuynh95), [connect on Linkedin](linkedin.com/in/jack-huynh-95-xyz), or drop a note at jackhuynh95xyz@gmail.com. Excited to connect! 🌟
 
 <!--
 **jackhuynh95/jackhuynh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
