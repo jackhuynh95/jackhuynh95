@@ -7,7 +7,7 @@ I work across Vue/Nuxt and React/Next on the frontend, Node.js and .NET on the b
 and I've been deep in Python (FastAPI + Pydantic AI), Medusa.js, and Kamal-based deploys lately.
 Earlier loves: WebRTC livestreaming, Electron, and Rust.
 
-📂 Selected projects → [Notion portfolio](https://moored-word-5c0.notion.site/...) <br/>
+📂 Selected projects → [Notion portfolio](https://moored-word-5c0.notion.site/To-Customer-Product-ToC-Product-6efe08d4f7e74393afeba968822a85ee) <br/>
 📸 Off-hours: photography + exploring → [Reels](https://www.facebook.com/reel/679908756942208)
 
 If you're in Vietnam, let's grab a coffee. ☕
